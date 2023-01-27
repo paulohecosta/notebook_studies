@@ -1,0 +1,17 @@
+feature,squad,weight,tech
+Whitelabel SSO,articuno,1,api_gateway
+Garantias Imoveis,articuno,1,api_gateway
+Modernizacao Boleto,articuno,1,api_gateway
+Modernizacao Boleto,zapdos,1,api_gateway
+Whitelabel SSO,articuno,1,kafka
+Garantias Imoveis,articuno,1,kafka
+Modernizacao Boleto,articuno,1,kafka
+Modernizacao Boleto,zapdos,1,kafka
+Whitelabel SSO,articuno,1,glue
+Garantias Imoveis,articuno,1,glue
+Modernizacao Boleto,articuno,1,glue
+Modernizacao Boleto,zapdos,1,glue
+Whitelabel SSO,articuno,1,architecture
+Garantias Imoveis,articuno,1,architecture
+Modernizacao Boleto,articuno,1,architecture
+Modernizacao Boleto,zapdos,1,architecture

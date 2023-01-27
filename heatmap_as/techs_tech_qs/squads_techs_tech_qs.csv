@@ -1,0 +1,9 @@
+tech,category,Conhecimento Squad,Conhecimento AS,Maturidade Interna,squad
+api_gateway,technology,1,1,1,articuno
+kafka,technology,0.8,0.8,0.8,articuno
+glue,technology,0.3,1,0.3,articuno
+architecture,skill,0.1,1,0.6,articuno
+api_gateway,technology,0.9,1,0.6,zapdos
+kafka,technology,0.6,0.8,0.6,zapdos
+glue,technology,0.1,1,0.3,zapdos
+architecture,skill,0.6,1,0.6,zapdos
