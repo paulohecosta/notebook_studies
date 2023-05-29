@@ -1,0 +1,12 @@
+requisito,ecs_curto_prazo,ecs_longo_prazo,eks_curto_prazo,eks_longo_prazo,observacao
+Capacidade,8,9,7,8,
+Comunidade Externa,7,8,7,8,
+Comunidade Interna,8,10,3,6,
+Escalablidade,7,7,7,8,
+Facilidade,8,10,2,6,
+Governança,5,5,5,5,
+Observabilidade e Addons,6,7,7,8,
+Portabilidade,6,7,7,8,
+Preço,8,6,5,6,
+Rede,5,6,7,8,
+Segurança,6,7,5,6,
